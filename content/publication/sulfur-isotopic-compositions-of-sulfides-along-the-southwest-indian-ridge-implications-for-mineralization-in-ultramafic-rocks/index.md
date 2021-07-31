@@ -5,6 +5,21 @@ publication_types:
   - "2"
 authors:
   - Ding Teng
+  - Tao Chunhui
+  - Dias Ágata Alveirinho
+  - Liang Jin
+  - admin
+  - Wu Bin
+  - Ma Dongsheng
+  - Zhang Rongqing
+  - Wang Jia
+  - Liao Shili
+  - Wang Yuan
+  - Yang Weifang
+  - Liu Jia
+  - Li Wei
+  - Zhang Guoyin
+  - Huang Hui
 doi: 10.1007/s00126-020-01025-0
 publication: Mineralium Deposita
 draft: false
