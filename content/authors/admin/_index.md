@@ -70,6 +70,6 @@ email: "chenjie@ipgp.fr"
 highlight_name: false
 ---
 
-I'm a PhD student of marine geosciences at Institut de Physique du Globe de Paris of Univeristè de Paris. My thesis title is 'The impact of MELT SUPPLY on fault distribution, volcanism, and the thermal regime at ultraslow spreading ridges'. I'm working on the micro-bathymetry, passive seismicity, gravity, and numerical thermal model.
+I'm currently a PhD student of marine geosciences at Institut de Physique du Globe de Paris of Univeristè de Paris. My thesis title is 'The impact of MELT SUPPLY on fault distribution, volcanism, and the thermal regime at ultraslow spreading ridges'. I'm working on the micro-bathymetry, passive seismicity, gravity, and numerical thermal model.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CHENjie_CV_2021July.pdf" "newtab" >}}resumé{{< /staticref >}}.
