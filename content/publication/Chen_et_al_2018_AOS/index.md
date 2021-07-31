@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Newly discovered hydrothermal fields along the ultraslow-spreading Southwest Indian Ridge around 63°E"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
