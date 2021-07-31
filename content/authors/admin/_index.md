@@ -6,7 +6,7 @@ title: Jie Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD student of Marine Geoscience
+role: PhD student of Marine Geosciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Marine Geoscience
+  - course: PhD student in Marine Geosciences
     institution:  Universitè de Paris, Institut de Physique du Globe de Paris
     year: 2018-now
-  - course: MEng in Marine Geoscience
+  - course: MEng in Marine Geosciences
     institution: Second Institute of Oceanography, MNR,
     year: 2015-2018
   - course: BSc in Geophysics
@@ -70,6 +70,6 @@ email: "chenjie@ipgp.fr"
 highlight_name: false
 ---
 
-I'm a PhD student of marine geosciences at the Institut de Physique du Globe de Paris of Univeristè de Paris.
+I'm a PhD student of marine geosciences at Institut de Physique du Globe de Paris of Univeristè de Paris. My thesis title is 'The impact of MELT SUPPLY on fault distribution, volcanism, and the thermal regime at ultraslow spreading ridges'. I'm working on the micro-bathymetry, passive seismicity, gravity, and numerical thermal model.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CHENjie_CV_2021July.pdf" "newtab" >}}resumé{{< /staticref >}}.
