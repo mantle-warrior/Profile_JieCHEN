@@ -1,6 +1,6 @@
 ---
-widget: Experience
-widget_id: Sea-going
+widget: experience
+widget_id: experience
 headless: true
 weight: 20
 title: Sea-going
