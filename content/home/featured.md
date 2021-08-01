@@ -3,11 +3,11 @@ widget: featured
 widget_id: Publications
 headless: true
 weight: 20
-title: Publications
+title: Selected Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 0
+  count: 3
   filters:
     author: ""
     category: ""
@@ -15,5 +15,5 @@ content:
     tag: ""
   order: desc
 design:
-  view: 3
+  view: 4
 ---
