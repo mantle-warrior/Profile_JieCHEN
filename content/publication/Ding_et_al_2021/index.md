@@ -9,7 +9,7 @@ authors:
   - Tao Chunhui
   - Dias Ágata Alveirinho
   - Liang Jin
-  - "admin"
+  - Chen Jie
   - Wu Bin
   - Ma Dongsheng
   - Zhang Rongqing

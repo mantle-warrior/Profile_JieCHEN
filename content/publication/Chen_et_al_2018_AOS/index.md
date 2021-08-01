@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Chen Jie
   - Tao Chunhui
   - Liang Jin
   - Liao Shili
