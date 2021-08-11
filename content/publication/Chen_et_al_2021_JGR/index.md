@@ -7,7 +7,7 @@ publication_types:
 authors: [Chen Jie, Cannat Mathilde, Tao Chunhui, Sauter Daniel, Munschy Marc]
 
 author_notes: []
-publication: Journal of Geophysical Research: Solid Earth
+publication: Journal of Geophysical Research:Solid Earth
 summary: ""
 url_dataset: ""
 url_project: ""
