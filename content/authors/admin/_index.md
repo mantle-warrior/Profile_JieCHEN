@@ -42,6 +42,8 @@ I'm currently a third-year PhD student of marine geosciences at Institut de Phys
 
 I'm now seeking a post-doc position after my PhD (my defense is expected in this December). If you are interested in my research and able to provide any opportunities, please contact me.
 
-Email: chenjie@ipgp.fr
+My email: chenjie@ipgp.fr
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CHENjie_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My website: https://chenjie.netlify.app/
+
+My {{< staticref "uploads/CHENjie_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
