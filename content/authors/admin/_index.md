@@ -40,7 +40,7 @@ highlight_name: false
 
 I'm currently a third-year PhD student of marine geosciences at Institut de Physique du Globe de Paris of Univeristè de Paris. My thesis title is 'The impact of MELT SUPPLY on fault distribution, volcanism, and the thermal regime at ultraslow spreading ridges'. I use multiple approaches for my research, including bathymetry, backscatter, seafloor imagery, passive seismicity, gravity, magnetics, and numerical thermal modelling.
 
-I'm now seeking a post-doc position after my PhD (my defense is expected in this December). If you are interested in my research and able to provide any opportunities, please contact me.
+I'm now seeking a post-doc position after my PhD (my defense is expected to be held in this December). If you are interested in my research and able to provide any opportunities, please contact me.
 
 My email: chenjie@ipgp.fr
 
