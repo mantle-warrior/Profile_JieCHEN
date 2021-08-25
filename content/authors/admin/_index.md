@@ -44,6 +44,6 @@ I'm now seeking a post-doc position after my PhD (my defense is expected to be h
 
 My email: chenjie@ipgp.fr
 
-My website: https://chenjie.netlify.app/
+Homepage: https://chenjie.netlify.app/
 
-My {{< staticref "uploads/CHENjie_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+My {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
