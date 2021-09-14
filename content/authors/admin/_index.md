@@ -5,10 +5,13 @@ bio: ""
 interests:
   - Mid-ocean Ridges
   - Geological mapping
+  - Submarine volcanism
+  - Magma plumbing system
   - Oceanic detachment fault
   - Numerical thermal modelling
   - Hydrothermal system
   - Seismicity
+
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -40,10 +43,11 @@ highlight_name: false
 
 I'm currently a third-year PhD student of marine geosciences at Institut de Physique du Globe de Paris (IPGP) of Univeristè de Paris. My thesis title is 'The impact of MELT SUPPLY on fault distribution, volcanism, and the thermal regime at ultraslow spreading ridges'. I use multiple approaches for my research, including bathymetry, backscatter, seafloor imagery, passive seismicity, gravity, magnetics, and numerical thermal modelling.
 
-I'm now seeking a post-doc position after my PhD (my defense is expected to be held in this December). If you are interested in my research and able to provide any opportunities, please contact me.
+I'm now seeking a post-doc position after my PhD (my defense is expected to be held on December 8th). If you are interested in my research and able to provide any opportunities, please contact me.
 
 My email: chenjie@ipgp.fr
 
 Homepage: https://chenjie.netlify.app/
 
 My {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
