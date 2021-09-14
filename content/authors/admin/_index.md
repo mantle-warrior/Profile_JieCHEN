@@ -28,13 +28,13 @@ organizations:
 education:
   courses:
     - course: PhD student in Marine Geosciences
-      institution: Universitè de Paris, Institut de Physique du Globe de Paris
+      institution: Institut de Physique du Globe de Paris, Universitè de Paris
       year: 2018-now
-    - course: MEng in Marine Geosciences
+    - course: M. E. in Marine Geophysics
       institution: Second Institute of Oceanography, MNR,
       year: 2015-2018
-    - course: BSc in Geophysics
-      institution: Ocean University of China
+    - course: B. E. in Geophysics
+      institution: College of Marine Geosciences, Ocean University of China
       year: 2011-2015
 email: chenjie@ipgp.fr
 superuser: true

@@ -7,12 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#posts'
-    weight: 30
   - name: Publications
     url: '#featured'
     weight: 20
+  - name: Research
+    url: '#posts'
+    weight: 30
+  - name: Seafloor Mapping
+    url: '#posts'
+    weight: 40
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
