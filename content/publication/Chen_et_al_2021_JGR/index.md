@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors: [Chen Jie, Cannat Mathilde, Tao Chunhui, Sauter Daniel, Munschy Marc]
 
-author_notes: []
+author_notes: [I'm here]
 publication: Journal of Geophysical Research:Solid Earth
 summary: ""
 url_dataset: ""
@@ -17,8 +17,8 @@ url_video: ""
 title: 780 thousand years of upper-crustal construction at a melt-rich segment of the ultraslow spreading Southwest Indian Ridge 50°28'E
 doi: 10.1029/2021jb022152 
 featured: true
-tags: []
-projects: []
+tags: [PhD project]
+projects: [PhD project]
 image:
   caption: ""
   focal_point: ""

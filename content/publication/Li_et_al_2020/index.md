@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors: [Li Huaiming, Tao Chunhui, Yue Xihe, Baker Edward T, Deng Xianming, Zhou Jianping, Wang Yuan, Zhang Guoyin, Chen Jie, Lü Shihui, Su Xin]
 
-author_notes: []
+author_notes: ['','','','','','','','',I'm here]
 publication: Marine Geology
 summary: ""
 url_dataset: ""
