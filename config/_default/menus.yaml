@@ -13,8 +13,8 @@ main:
   - name: Research
     url: '#posts'
     weight: 30
-  - name: Seafloor Mapping
-    url: '#posts'
+  - name: Projects
+    url: '#projects'
     weight: 40
 #  - name: Talks
 #    url: '#talks'
