@@ -12,7 +12,7 @@ image:
 
 Melt supply at the ultraslow-spreading Southwest Indian Ridge (SWIR) has been shown to vary from nearly-amagmatic, leading to ultramafic seafloor, to magmatically-robust, producing fully volcanic seafloor. The center of the SWIR 50°28'E segment represents a magmatically-robust endmember.  AUV-based, 2-m resolution bathymetry and backscatter data are used to map seafloor morphologies and fault distribution, and seafloor photographs are used to map lava morphologies at the SWIR 50°28'E over the past 780 kyr. The results show evidence of high eruption rates and low tectonic strain, close to what has been observed at intermediate- and fast-spreading ridges. Mapping shows that the modes of upper-crustal construction have varied both in space and time, likely in response to changes in melt supply. Particularly, we propose that the upper crust at this magmatically-robust ridge section was constructed with alternating waxing and waning phases of melt supply over cycles of ~300 kyr. 
 
-Download {{< staticref "../publication/Chen_et_al_2021_JGR/Chen_et_al_2021_JGR.pdf" "newtab" >}} PDF{{< /staticref >}}.
+Download {{< staticref "../publication/Chen_et_al_2021_JGR/Chen_et_al_2021_JGR.pdf" "newtab" >}} PDF{{< /staticref >}}
 
 断桥区位于SWIR第27洋脊段中心（SWIR 50°28′E），其地壳厚度达9.5 km且在下地壳4-9 km深度范围内存在地震低速异常的岩浆房。论文研究的数据来自2016年“潜龙二号”自主水下机器人采集的高分辨率多波束测深和侧扫和近底磁异常以及2015年拖曳采集的海底摄像。论文对断桥区780千年内的海底火山地形、断层构造以及熔岩流形态进行地质填图和描写。结果显示断桥区岩浆喷发速度较快且构造应变较低，其观测值可与中速和快速扩张的洋中脊相当。此外，研究发现断桥区的上地壳具有‘光滑圆顶火山-丘状火山脊‘旋回构造的特点，其周期约为300千年，可能归因于交替的岩浆增强期和岩浆减弱期。在岩浆增强期，岩浆供给频率高，导致下地壳岩浆供给系统上升变浅。岩墙侵入此时较为集中，岩浆喷发速度较快，形成光滑的圆顶火山。在岩浆减弱期，岩浆供给频率较低，导致下地壳岩浆供给系统下沉。此时，岩墙侵入较为集散，岩浆喷发速度也较慢，多形成丘状火山脊。脆性的岩石圈在岩浆减弱期相对更冷更厚，可对应在海底表面观测到的大量断层。最后，论文指出慢速和超慢速扩张洋中脊的上地壳构造模式和岩石圈热结构受岩浆供给控制，而非仅受扩张速率控制。
 
