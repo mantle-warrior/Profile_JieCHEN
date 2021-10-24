@@ -1,5 +1,5 @@
 ---
-title: The most magmatically-robust endmember of ultraslow spreading ridges
+title: The most magmatically-robust endmember of ultraslow spreading ridges (中文在后)
 date: 2021-08-01
 math: true
 diagram: true
@@ -26,13 +26,19 @@ Melt supply at the ultraslow-spreading Southwest Indian Ridge (SWIR) has been sh
 
 <center>Figure 1: AUV map and seafloor morphologies<center>
 
+  
+
 <img src="图2.jpg" alt="figure" style="zoom:24%;" />
 
 <center>Figure 2: Interpretations in seafloor and lava morphologies<center>
 
+  
+
 <img src="图3.jpg" alt="figure" style="zoom:24%;" />
 
 <center>Figure 3: Sketches for upper-crustal construction in waxing and waning magmatic phases<center>
+
+  
 
 <img src="图4.jpg" alt="figure" style="zoom:24%;" />
 
