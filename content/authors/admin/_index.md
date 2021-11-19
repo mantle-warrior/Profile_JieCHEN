@@ -43,13 +43,14 @@ highlight_name: false
 
 I am pleased to invite you to my PhD defense, entitled: "The impact of melt supply on fault distribution, volcanism, and the thermal regime at slow spreading ridges".
 
-The defense will take place on Wednesday, December 8th at 2:30 pm, in the IPGP amphitheater. Or join the ZOOM meeting:
+The defense will take place on Wednesday, December 8th at 2:30 pm (Paris time), in the IPGP amphitheater. Or join the ZOOM meeting:
+
 https://u-paris.zoom.us/j/84642773314?pwd=dGFpS0RrNnFSV01lVDFSRndDOGsrZz09 
 
-My thesis {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} abstract{{< /staticref >}}.
+My thesis {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} abstract{{< /staticref >}}.
 
 My email: chenjie@ipgp.fr
 
 Homepage: https://chenjie.netlify.app/
 
-My CV in {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
+My CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
