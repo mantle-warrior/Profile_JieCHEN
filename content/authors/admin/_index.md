@@ -19,21 +19,21 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Jie-Chen-295
-  - icon: linkedin
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/in/jie-chen-2b5541187
+    link: https://orcid.org/0000-0002-4674-8351
 organizations:
   - name: Universitè de Paris, IPGP
     url: https://www.ipgp.fr/en/user/44891
 education:
   courses:
-    - course: PhD student in Marine Geosciences
-      institution: Institut de Physique du Globe de Paris, Universitè de Paris
-      year: 2018-now
-    - course: M. E. in Marine Geophysics
+    - course: Ph.D., Marine Geosciences
+      institution: Universitè de Paris,  Institut de Physique du Globe de Paris
+      year: 2018-2021
+    - course: M. E., Marine Geophysics
       institution: Second Institute of Oceanography, MNR,
       year: 2015-2018
-    - course: B. E. in Geophysics
+    - course: B. E., Geophysics
       institution: College of Marine Geosciences, Ocean University of China
       year: 2011-2015
 email: chenjie@ipgp.fr
@@ -41,11 +41,7 @@ superuser: true
 highlight_name: false
 ---
 
-I am pleased to invite you to my PhD defense, entitled: "The impact of melt supply on fault distribution, volcanism, and the thermal regime at slow spreading ridges".
-
-The defense will take place on Wednesday, December 8th at 2:30 pm (Paris time), in the IPGP amphitheater. Or join the ZOOM meeting:
-
-https://u-paris.zoom.us/j/84642773314?pwd=dGFpS0RrNnFSV01lVDFSRndDOGsrZz09 
+My name is Jie Chen (陈杰). I  got my PhD at IPGP/Universitè de Paris. Here is my [defense video](https://www.youtube.com/watch?v=isdJHUWdoww).
 
 My thesis {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} abstract{{< /staticref >}}.
 
