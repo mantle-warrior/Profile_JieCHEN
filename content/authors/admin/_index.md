@@ -43,7 +43,7 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I  got my PhD at IPGP/Universitè de Paris. 
 
-Here is my [defense video](https://www.youtube.com/watch?v=isdJHUWdoww).
+Here is my defense video on  [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww)  and [bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
 My thesis {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} abstract{{< /staticref >}}.
 
