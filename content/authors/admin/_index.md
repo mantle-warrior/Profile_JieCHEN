@@ -47,7 +47,7 @@ Here is my defense video on  [YouTube](https://www.youtube.com/watch?v=isdJHUWdo
 
 My thesis {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} abstract{{< /staticref >}}.
 
-My email: chenjie@ipgp.fr
+My email: chenjie@ipgp.fr and chenjie.geo@outlook.com
 
 Homepage: https://chenjie.netlify.app/
 
