@@ -41,7 +41,7 @@ superuser: true
 highlight_name: false
 ---
 
-My name is Jie Chen (陈杰). I  got my PhD in Earth Sciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., gravity and seismicity) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at  mid-ocean ridges.
+My name is Jie Chen (陈杰). I  got my PhD in Earth Sciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., seismicity and potential fields) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at  mid-ocean ridges.
 
 Here is my defense video on  [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww)  and [bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
