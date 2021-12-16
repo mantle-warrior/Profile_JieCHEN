@@ -43,7 +43,7 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I got my Ph.D. in Marine Geosciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., seismicity and potential fields) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at mid-ocean ridges.
 
-Presentation record of my PhD defense (Dec-8, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
+Presentation record of my PhD defense (Dec 8th, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
 Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
 
