@@ -3,7 +3,7 @@ title: Jie Chen
 role: Ph.D. in Marine Geosciences
 bio: ""
 interests:
-  - Mid-ocean Ridges
+  - Mid-Ocean Ridges
   - Geological mapping
   - Submarine volcanism
   - Magma plumbing system
