@@ -14,7 +14,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Microseismicity and lithosphere thickness at a nearly amagmatic mid-ocean ridge
+title: Microseismicity and lithosphere thickness at a nearly amagmatic mid-ocean ridge (preprint)
 doi: 10.21203/rs.3.rs-1046015/v1
 featured: true
 tags: [PhD project]
