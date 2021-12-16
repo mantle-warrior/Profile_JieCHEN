@@ -1,6 +1,6 @@
 ---
 title: Jie Chen
-role: PhD student of Marine Geosciences
+role: Ph.D. in Marine Geosciences
 bio: ""
 interests:
   - Mid-ocean Ridges
@@ -41,7 +41,7 @@ superuser: true
 highlight_name: false
 ---
 
-My name is Jie Chen (陈杰). I got my Ph.D. in Earth Sciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., seismicity and potential fields) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at mid-ocean ridges.
+My name is Jie Chen (陈杰). I got my Ph.D. in Marine Geosciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., seismicity and potential fields) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at mid-ocean ridges.
 
 Here is the presentation record of my PhD defense (Dec-8, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
