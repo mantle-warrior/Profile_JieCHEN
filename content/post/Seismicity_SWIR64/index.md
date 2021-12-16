@@ -1,6 +1,6 @@
 ---
 title: The nearly-amagmatic endmember of ultraslow spreading ridges
-date: 2021-08-01
+date: 2021-12-01
 math: true
 diagram: true
 highlight: true
