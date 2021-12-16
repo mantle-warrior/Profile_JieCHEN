@@ -43,12 +43,8 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I got my Ph.D. in Earth Sciences at IPGP/Universitè de Paris. I use geomorphological (e.g., bathymetry), geophysical (e.g., seismicity and potential fields) and numerical (e.g., thermal model) methods to investigate plate tectonics, especially the formation of the oceanic lithosphere at mid-ocean ridges.
 
-Here is the presentation record of my PhD defense (Dec-8, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
+Here is the presentation record of my PhD defense (Dec-8, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
-My thesis {{< staticref "uploads/JieCHEN_PHDdefense_Dec08_abstract.pdf" "newtab" >}} abstract{{< /staticref >}}.
+Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
 
-My email: chenjie@ipgp.fr and chenjie.geo@outlook.com
-
-Homepage: https://chenjie.netlify.app/
-
-My CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
+Email: chenjie@ipgp.fr and chenjie.geo@outlook.com
