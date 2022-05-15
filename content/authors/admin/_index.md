@@ -47,4 +47,4 @@ Presentation record of my PhD defense (Dec 8th, 2021) on [YouTube](https://www.y
 
 Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
 
-Email: chenjie@ipgp.fr and chenjie.geo@outlook.com
+Email: chenjie.geo@outlook.com
