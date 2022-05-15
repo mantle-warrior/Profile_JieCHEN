@@ -32,6 +32,6 @@ slides: example
 
 Chen, Jie (2022): Bathymetry map showing slow and ultraslow spreading ridges. figshare. Figure. [https://doi.org/10.6084/m9.figshare.19561030.v1](https://doi.org/10.6084/m9.figshare.19561030.v1)
 
-
+Figure design inspiration comes from Bing Dwen Dwen (Beijing 2022 Olympic Mascot).
 
 ![featured](featured.jpg)
