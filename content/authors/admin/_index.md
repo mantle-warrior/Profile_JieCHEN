@@ -27,8 +27,11 @@ social:
 organizations:
   - name: Universitè Paris Cité, IPGP
     url: https://www.ipgp.fr/en/user/44891
-education and experience:
+education:
   courses:
+    - course: Postdoc
+      institution: Second Institute of Oceanography, MNR
+      year: 2022.01-2022.07
     - course: Ph.D., Marine Geosciences
       institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
       year: 2018.10-2021.12.08
