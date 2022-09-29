@@ -1,5 +1,5 @@
 ---
-title: Bathymetry map of the global Mid-Ocean Ridges
+title: Spilhaus World Ocean Map
 summary: 
 tags:
 - Seafloor Mapping
@@ -30,6 +30,18 @@ url_video: ""
 slides: example
 ---
 
-See more maps in: Chen, Jie (2022): Spilhaus World Ocean Map. figshare. Figure. https://doi.org/10.6084/m9.figshare.21229757.v1 
+1. Topography (GEBCO)
+2. Active hydrothermal vent (Interridge)
+3. Crustal age (Seton et al., 2020@Gcube)
+4. Spreading rate (Seton et al., 2020@Gcube)
+5. Teleseismicity (USGS)
+6. Gravity anomaly (DTU21)
+7. Magnetic anomaly (EMAG-V2)
+8. S-wave velocity anomaly at 100 km depth (Debayle et al., 2016@GRL)
+9. S-wave velocity anomaly at 150 km depth (Debayle et al., 2016@GRL)
+
+See more maps: Chen, Jie (2022): Spilhaus World Ocean Map. figshare. Figure. https://doi.org/10.6084/m9.figshare.21229757.v1 
+
+
 
 ![featured](featured.jpg)
