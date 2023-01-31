@@ -24,6 +24,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-4674-8351
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/386897433
 organizations:
   - name: Universitè Paris Cité, IPGP
     url: https://www.ipgp.fr/en/user/44891
@@ -48,7 +51,7 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I'm now a postdoc in Marine Geosciences of IPGP, Universitè Paris Cité, where I also got my PhD in 2021. I use geomorphological (e.g., bathymetry and sidescan), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigate  seafloor spreading processes at the mid-ocean ridges. Recently, I focus on slow and ultraslow spreading ridges.
 
-Presentation record of my PhD defense (Dec 8th, 2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
+Presentation record of my PhD defense (2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
 Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
 
