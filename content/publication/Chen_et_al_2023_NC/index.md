@@ -7,7 +7,7 @@ publication_types:
 authors: [Chen Jie, Crawford Wayne, Cannat Mathilde]
 
 author_notes: [I'm here]
-publication: 
+publication: Nature Communications
 summary: ""
 url_dataset: ""
 url_project: ""
