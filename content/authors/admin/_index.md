@@ -1,5 +1,5 @@
 ---
-title: Jie Chen
+title: Jie Chen (陈杰)
 role: Ph.D. in Marine Geosciences
 bio: ""
 interests:
@@ -33,17 +33,13 @@ education:
   courses:
     - course: Ph.D., Marine Geosciences
       institution: Universitè Paris Cité,  IPGP
-      year: 2018.10-2021.12.08
+      year: 2018.10-2021.12
     - course: M. E., Marine Geophysics
       institution: Second Institute of Oceanography, MNR
       year: 2015.09-2018.06
     - course: B. E., Geophysics
       institution: Ocean University of China
       year: 2011.08-2015.06
-experience:
-    -: Ph.D., Marine Geosciences
-      institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
-      year: 2018.10-2021.12.08
 email: chenjie@ipgp.fr
 superuser: true
 highlight_name: false
