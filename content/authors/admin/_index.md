@@ -30,11 +30,13 @@ social:
 organizations:
   - name: Universitè Paris Cité, IPGP
     url: https://www.ipgp.fr/en/user/44891
+Experience:
+  courses:
+    - course: Ph.D., Marine Geosciences
+      institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
+      year: 2018.10-2021.12.08
 education:
   courses:
-    - course: Postdoc
-      institution: Second Institute of Oceanography, MNR
-      year: 2022.01-2022.07
     - course: Ph.D., Marine Geosciences
       institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
       year: 2018.10-2021.12.08
@@ -51,7 +53,7 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I'm now a postdoc in Marine Geosciences of IPGP, Universitè Paris Cité, where I also got my PhD in 2021. I use geomorphological (e.g., bathymetry and sidescan), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigate  seafloor spreading processes at the mid-ocean ridges. Recently, I focus on slow and ultraslow spreading ridges.
 
-Presentation record of my PhD defense (2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
+Record of my PhD defense (2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
 Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
 
