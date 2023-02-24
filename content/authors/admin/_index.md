@@ -29,22 +29,22 @@ social:
 organizations:
   - name: Universitè Paris Cité, IPGP
     url: https://www.ipgp.fr/en/user/44891
-Experience:
-  courses:
-    - course: Ph.D., Marine Geosciences
-      institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
-      year: 2018.10-2021.12.08
 education:
   courses:
     - course: Ph.D., Marine Geosciences
-      institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
+      institution: Universitè Paris Cité,  IPGP
       year: 2018.10-2021.12.08
     - course: M. E., Marine Geophysics
       institution: Second Institute of Oceanography, MNR
       year: 2015.09-2018.06
     - course: B. E., Geophysics
-      institution: College of Marine Geosciences, Ocean University of China
+      institution: Ocean University of China
       year: 2011.08-2015.06
+experience:
+  courses:
+    - course: Ph.D., Marine Geosciences
+      institution: Universitè Paris Cité,  Institut de Physique du Globe de Paris
+      year: 2018.10-2021.12.08
 email: chenjie@ipgp.fr
 superuser: true
 highlight_name: false
