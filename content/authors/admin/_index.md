@@ -5,14 +5,13 @@ bio: ""
 interests:
   - Mid-Ocean Ridges
   - (ultra)Slow spreading ridges
+  - Autonomous Underwater Vehicle (AUV)
   - Geological mapping
   - Submarine volcanism
-  - Magma plumbing system
   - Oceanic detachment fault
-  - Numerical thermal modelling
+  - Numerical modelling
   - Hydrothermal system
   - Seismicity
-  - Fault
 
 social:
   - icon: graduation-cap
