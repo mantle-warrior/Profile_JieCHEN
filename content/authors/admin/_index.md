@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Mid-Ocean Ridges
   - (ultra)Slow spreading ridges
-  - Autonomous Underwater Vehicle (AUV)
+  - Autonomous Underwater Vehicle
   - Geological mapping
   - Submarine volcanism
   - Oceanic detachment fault
@@ -54,6 +54,6 @@ My name is Jie Chen (陈杰). I'm now a postdoc researcher at Marine Geosciences
 
 Record of my PhD defense (2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
-Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} Chinese{{< /staticref >}}.
+Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
 
 Email: chenjie@ipgp.fr / chenjie.geo@outlook.com 
