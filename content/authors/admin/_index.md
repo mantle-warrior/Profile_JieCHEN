@@ -23,7 +23,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-4674-8351
-  - icon: bilibili
+  - icon: "uploads/Bilibili_Logo.png"
     icon_pack: fab
     link: https://space.bilibili.com/386897433
 organizations:
