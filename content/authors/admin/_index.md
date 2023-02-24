@@ -29,7 +29,7 @@ social:
 organizations:
   - name: Universitè Paris Cité, IPGP
     url: https://www.ipgp.fr/en/user/44891
-work/education:
+education:
   courses:
     - course: Ph.D., Marine Geosciences
       institution: Universitè Paris Cité,  IPGP
