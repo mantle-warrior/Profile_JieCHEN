@@ -32,7 +32,7 @@ organizations:
 education:
   courses:
     - course: Ph.D., Marine Geosciences
-      institution: Universitè Paris Cité,  IPGP ([thesis](https://doi.org/10.13140/RG.2.2.11893.04325))
+      institution: Universitè Paris Cité,  IPGP
       year: 2018.10-2021.12
     - course: M. E., Marine Geophysics
       institution: Second Institute of Oceanography, MNR
@@ -47,8 +47,8 @@ highlight_name: false
 
 My name is Jie Chen (陈杰). I'm now a postdoc researcher at Marine Geosciences of Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité, where I also got my PhD in 2021. I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. Recently, I focus on the thermal regime of the mid-ocean ridges using numerical thermal modelling and on faulting using high-resolution bathymetry collected by Autonomous Underwater Vehicles (AUVs).
 
-Record of my PhD defense (2021) on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
+Download my (PhD thesis) [https://doi.org/10.13140/RG.2.2.11893.04325] and watch my PhD defense on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) and [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
-Download CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
+Download my CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
 
 Email: chenjie@ipgp.fr / chenjie.geo@outlook.com 
