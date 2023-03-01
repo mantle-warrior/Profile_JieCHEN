@@ -32,7 +32,7 @@ organizations:
 education:
   courses:
     - course: Ph.D., Marine Geosciences
-      institution: Universitè Paris Cité,  IPGP
+      institution: Universitè Paris Cité,  IPGP ([thesis](https://doi.org/10.13140/RG.2.2.11893.04325))
       year: 2018.10-2021.12
     - course: M. E., Marine Geophysics
       institution: Second Institute of Oceanography, MNR
