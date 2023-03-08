@@ -5,7 +5,7 @@ tags:
 - Seafloor Mapping
 date: "2022-09-29T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
+# Optional external URL for Mapping (replaces project detail page).
 external_link: ""
 
 image:

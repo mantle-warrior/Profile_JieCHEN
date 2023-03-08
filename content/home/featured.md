@@ -7,7 +7,7 @@ title: Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 10
   filters:
     author: ""
     category: ""

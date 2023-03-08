@@ -32,4 +32,3 @@ slides: example
 
 Chen, Jie (2021): Bathymetry map of the Southwest Indian Ridge. figshare. Figure. https://doi.org/10.6084/m9.figshare.14933397.v2 
 
-![featured](featured.png)
