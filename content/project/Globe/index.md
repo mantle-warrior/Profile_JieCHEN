@@ -31,5 +31,3 @@ slides: example
 ---
 
 Chen, Jie (2021): Bathymetry map showing global Mid-Ocean Ridge, hydrothermal vent fields, and detachment faults. figshare. Figure. https://doi.org/10.6084/m9.figshare.14680419.v2 
-
-![featured](featured.jpg)

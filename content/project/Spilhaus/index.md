@@ -41,7 +41,3 @@ slides: example
 9. S-wave velocity anomaly at 150 km depth (Debayle et al., 2016@GRL)
 
 See more maps: Chen, Jie (2022): Spilhaus World Ocean Map. figshare. Figure. https://doi.org/10.6084/m9.figshare.21229757
-
-
-
-![featured](featured.jpg)

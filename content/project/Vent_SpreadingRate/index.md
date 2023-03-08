@@ -35,5 +35,3 @@ Chen, Jie (2021): Global distribution of hydrothermal vents with respect to spre
 Datasets are from multiple sources: topography (Weatherall et al., 2015), crustal age (Seton et al., 2020), and vent sites ([https://vents-data.interridge.org/](https://www.researchgate.net/deref/https%3A%2F%2Fvents-data.interridge.org%2F)). Figure is made by GMT 6.0 ([https://www.generic-mapping-tools.org/](https://www.researchgate.net/deref/https%3A%2F%2Fwww.generic-mapping-tools.org%2F)).
 
 
-
-![featured](featured.jpg)

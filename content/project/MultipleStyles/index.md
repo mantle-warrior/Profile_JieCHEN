@@ -32,8 +32,6 @@ slides: example
 
 Chen, Jie (2021): Seafloor mapping: multiple styles of bathymetry maps showing the Mid-Ocean Ridges. figshare. Figure. https://doi.org/10.6084/m9.figshare.16529472.v1 
 
-![featured](featured.jpg)
-
 ![Hemisphere](Hemisphere.jpg)
 
 ![EPR](EPR.jpg)

@@ -31,5 +31,3 @@ slides: example
 ---
 
 Chen, Jie (2021): Global bathymetry map: See The World. figshare. Figure. https://doi.org/10.6084/m9.figshare.14933442.v2 
-
-![featured](featured.png)
