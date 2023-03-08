@@ -30,4 +30,3 @@ Download {{< staticref "../publication/Chen_et_al_2023_NC/ [Chen_et_al_2023_NC.p
 <img src="Fig3.jpg" alt="figure" style="zoom:24%;" />
 
 <center>Figure 3: Modes of detachment faults and their patterns of seismicity<center>
-

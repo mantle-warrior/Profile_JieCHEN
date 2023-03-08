@@ -4,10 +4,10 @@ widget_id: Publications
 headless: true
 weight: 20
 title: Publications
-subtitle: ""
+subtitle: "download my CV for all publications"
 content:
   page_type: publication
-  count: 10
+  count: 5
   filters:
     author: ""
     category: ""
