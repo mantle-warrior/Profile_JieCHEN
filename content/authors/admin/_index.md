@@ -51,4 +51,6 @@ Download my [PhD thesis](https://doi.org/10.13140/RG.2.2.11893.04325) and watch 
 
 Download my CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
 
+More in my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&pli=1&user=VnL3zvMAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jie-Chen-295), and [ORCID](https://orcid.org/0000-0002-4674-8351).
+
 Email: chenjie@ipgp.fr / chenjie.geo@outlook.com 
