@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Seafloor Mapping
-subtitle: ''
+subtitle: For work and for fun
 
 content:
   # Page type to display. E.g. project.

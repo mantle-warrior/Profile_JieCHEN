@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Research Projects
-subtitle:
+subtitle: Looking into the Earth from multiple perspectives
 
 content:
   # Page type to display. E.g. post, talk, publication...
