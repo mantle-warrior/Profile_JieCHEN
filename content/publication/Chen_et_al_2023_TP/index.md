@@ -18,7 +18,7 @@ title: Evolution of enhanced magmatism at the ultraslow spreading Southwest Indi
 doi: 10.1016/j.tecto.2023.229903
 featured: true
 tags: [SWIR]
-projects: [SWIR]
+projects:
 image:
   caption: ""
   focal_point: ""
