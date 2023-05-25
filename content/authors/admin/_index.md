@@ -45,7 +45,7 @@ superuser: true
 highlight_name: false
 ---
 
-My name is Jie Chen (陈杰). I'm now a postdoc researcher at Marine Geosciences of Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité, where I also got my PhD in 2021. I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. Recently, I focus on the thermal regime of the mid-ocean ridges using numerical thermal modelling and on faulting using high-resolution bathymetry collected by Autonomous Underwater Vehicle (AUV).
+My name is Jie Chen (陈杰). I'm now a postdoc researcher at Marine Geosciences of Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité. I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. Recently, I focus on the thermal regime of the mid-ocean ridges using numerical thermal modelling and faulting using high-resolution bathymetry collected by Autonomous Underwater Vehicle (AUV).
 
 Download my [PhD thesis](https://doi.org/10.13140/RG.2.2.11893.04325) and watch my PhD defense on [YouTube](https://www.youtube.com/watch?v=isdJHUWdoww) or [Bilibili](https://www.bilibili.com/video/BV1rg411P7Z7).
 
