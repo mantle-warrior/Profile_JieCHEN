@@ -17,7 +17,7 @@ url_video: ""
 title: Ocean Sciences with the Spilhaus Projection: A Seamless Ocean Map for Spatial Data Recognition
 doi: 10.1038/s41597-023-02309-6
 featured: true
-tags: [Seafloor mapping]
+tags: [Seafloor Mapping]
 projects:
 image:
   caption: ""
