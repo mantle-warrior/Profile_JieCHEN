@@ -4,7 +4,7 @@ slides: ""
 url_pdf: "https://www.researchgate.net/publication/371831598_Ocean_Sciences_with_the_Spilhaus_Projection_A_Seamless_Ocean_Map_for_Spatial_Data_Recognition"
 publication_types:
   - "2"
-authors: [Chen Jie, Zhang Tao, Li Huaiming, Tao Chunhui,  Cannat Mathilde, Sauter Daniel]
+authors: [Chen Jie, Zhang Tao, Tominaga Masako, Escartin Javier,  Kang Ruixin]
 
 author_notes: [I'm here]
 publication: Scientific Data
@@ -14,7 +14,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Ocean Sciences with the Spilhaus Projection: A Seamless Ocean Map for Spatial Data Recognition
+title: Ocean Sciences with the Spilhaus Projection:A Seamless Ocean Map for Spatial Data Recognition
 doi: 10.1038/s41597-023-02309-6
 featured: true
 tags: [Seafloor Mapping]
