@@ -17,8 +17,8 @@ url_video: ""
 title: Thermal Regime of Slow and Ultraslow Spreading Ridges Controlled by Melt Supply and Modes of Emplacement
 doi: 10.1029/2021jb023715
 featured: true
-tags: [PhD project]
-projects: [PhD project]
+tags: [PhD project, Numerical model]
+projects: [PhD project, Numerical model]
 image:
   caption: ""
   focal_point: ""
