@@ -4,7 +4,7 @@ widget_id: Publications
 headless: true
 weight: 20
 title: Publications
-subtitle: "download my CV for all publications"
+subtitle: "as of 2023-11-15"
 content:
   page_type: publication
   count: 5
