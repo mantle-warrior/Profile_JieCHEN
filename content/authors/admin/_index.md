@@ -28,7 +28,7 @@ social:
     link: https://space.bilibili.com/386897433
 organizations:
   - name: Universitè Paris Cité, IPGP
-    url: https://www.ipgp.fr/en/user/44891
+    url: https://www.ipgp.fr/en/directory/chenjie/
 education:
   courses:
     - course: Ph.D., Marine Geosciences
