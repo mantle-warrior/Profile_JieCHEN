@@ -13,4 +13,9 @@ The thermal regime of the global Mid-Ocean Ridges (MOR) is a key control on the 
 
 Related publications: 
 
-Chen Jie, Jean-Arthur Olive, Cannat Mathilde (2022). [Thermal Regime of Slow and Ultraslow Spreading Ridges Controlled by Melt Supply and Modes of Emplacement](http://localhost:1313/publication/chen_et_al_2022_jgr/). Journal of Geophysical Research:Solid Earth.
+Chen Jie, Jean-Arthur Olive, Cannat Mathilde (2023). [Beyond spreading rate: Controls on the thermal regime of mid-ocean ridges](https://www.researchgate.net/publication/375089803_Beyond_spreading_rate_Controls_on_the_thermal_regime_of_mid-ocean_ridges). Proceedings of the National Academy of Sciences.
+
+Chen Jie, Jean-Arthur Olive, Cannat Mathilde (2022). [Thermal Regime of Slow and Ultraslow Spreading Ridges Controlled by Melt Supply and Modes of Emplacement](https://www.researchgate.net/publication/359665692_Thermal_Regime_of_Slow_and_Ultraslow_Spreading_Ridges_Controlled_by_Melt_Supply_and_Modes_of_Emplacement). Journal of Geophysical Research:Solid Earth.
+
+
+

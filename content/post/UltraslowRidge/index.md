@@ -14,6 +14,10 @@ Ultraslow spreading ridges, which account for ~20% of the global Mid-Ocean Ridge
 
 Related publications: 
 
-Chen Jie, Crawford Wayne, Cannat Mathilde (2023). [Microseismicity and lithosphere thickness at a nearly-amagmatic oceanic detachment fault system](http://localhost:1313/publication/chen_et_al_2023_nc/). Nature Communications.
+Chen Jie, Crawford Wayne, Cannat Mathilde (2023). [Microseismicity and lithosphere thickness at a nearly-amagmatic oceanic detachment fault system](https://www.nature.com/articles/s41467-023-36169-w). Nature Communications.
 
-Chen Jie, Cannat Mathilde, Tao Chunhui, Sauter Daniel, Munschy Marc (2021). [780 thousand years of upper-crustal construction at a melt-rich segment of the ultraslow spreading Southwest Indian Ridge 50°28'E](http://localhost:1313/publication/chen_et_al_2021_jgr/). Journal of Geophysical Research:Solid Earth.
+Chen Jie, Cannat Mathilde, Tao Chunhui, Sauter Daniel, Munschy Marc (2021). [780 thousand years of upper-crustal construction at a melt-rich segment of the ultraslow spreading Southwest Indian Ridge 50°28'E](https://www.researchgate.net/publication/353822476_780_Thousand_Years_of_Upper-Crustal_Construction_at_a_Melt-Rich_Segment_of_the_Ultraslow_Spreading_Southwest_Indian_Ridge_5028'E). Journal of Geophysical Research:Solid Earth.
+
+Chen, J., Zhang, T., Li, H., Tao, C., Cannat, M., Sauter, D. (2023). [Evolution of enhanced magmatism at the ultraslow spreading Southwest Indian Ridge between 46°E and 53.5°E]( https://doi.org/10.1016/j.tecto.2023.229903). Tectonophysics.
+
+Yan Kaixuan, Chen Jie, Zhang Tao. (2024). [Teleseismic Indication of Magmatic and Tectonic Activities at Slow- and Ultraslow-Spreading Ridges](https://doi.org/10.3390/jmse12040605). J. Mar. Sci. Eng. 
