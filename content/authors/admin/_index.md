@@ -1,6 +1,6 @@
 ---
 title: Jie Chen (陈杰)
-role: Ph.D. in Marine Geosciences
+role: Ph.D. in Marine Geoscience
 bio: ""
 interests:
   - Mid-Ocean Ridges
@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://space.bilibili.com/386897433
 organizations:
-  - name: Universitè Paris Cité, IPGP
+  - name: Laboratoire de Géologie, Ecole Normale Supérieure, PSL University
     url: https://www.ipgp.fr/en/directory/chenjie/
 education:
   courses:
@@ -51,4 +51,4 @@ Download my CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{<
 
 See more in [Google Scholar](https://scholar.google.co.uk/citations?hl=en&pli=1&user=VnL3zvMAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jie-Chen-295), and [ORCID](https://orcid.org/0000-0002-4674-8351).
 
-Email: chenjie@ipgp.fr / chenjie.geo@outlook.com 
+Email: chen@geologie.ens.fr / chenjie.geo@outlook.com 
