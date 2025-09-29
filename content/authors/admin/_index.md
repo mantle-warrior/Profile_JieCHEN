@@ -45,9 +45,11 @@ superuser: true
 highlight_name: false
 ---
 
-My name is Jie Chen (陈杰). I'm now a postdoc at Laboratoire de Géologie, Ecole Normale Supérieure, PSL University. Before that, I was a postdoc at Marine Geosciences, Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité. 
+My name is Jie Chen (陈杰). I'm now a postdoc at Laboratoire de Géologie, Ecole Normale Supérieure, PSL University, as a part of [MUSH-OCEAN ANR project](https://mush-ocean.univ-lorraine.fr/en/). Before that, I was a postdoc at Marine Geosciences, Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité. 
 
-I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. Recently, I focus on the thermal regime of the mid-ocean ridges using numerical modelling and faulting using high-resolution bathymetry collected by Autonomous Underwater Vehicle (AUV).
+I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. 
+
+Recently, I focus on the magma convection of fast-spreading ridges and submarine mass wasting using high-resolution bathymetry collected by Autonomous Underwater Vehicle (AUV).
 
 Download my CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
 

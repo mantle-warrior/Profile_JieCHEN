@@ -32,7 +32,7 @@ module:
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  paginate: 10
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -67,3 +67,19 @@ related:
       weight: 100
     - name: categories
       weight: 70
+############################
+## SECURITY (Required Fix)
+############################
+security:
+  funcs:
+    # 允许访问 HUGO_、CI 变量，以及 Wowchemy 主题需要的 WC_POST_CSS
+    getenv: ['^HUGO_', '^CI$', 'WC_POST_CSS']
+    
+############################
+## SERVICES (Google Analytics Fix)
+############################
+services:
+  googleAnalytics:
+    # 必须定义 ID 字段，即使它是空的。
+    # 如果您有 ID，请在此处填写，例如：ID: "G-XXXXXXXXX"
+    ID: ""
