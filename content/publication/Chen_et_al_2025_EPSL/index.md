@@ -4,7 +4,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: [Chen Jie, Javier Escartin, Cannat Mathilde]
+authors: [Chen Jie, Escartin Javier, Cannat Mathilde]
 
 author_notes: [I'm here]
 publication: Earth and Planetary Science Letters
