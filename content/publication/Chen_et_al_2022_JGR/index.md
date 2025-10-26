@@ -4,7 +4,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors: [Chen Jie, Jean-Arthur Olive, Cannat Mathilde]
+authors: [Chen Jie, Olive Jean-Arthur, Cannat Mathilde]
 
 author_notes: [I'm here]
 publication: Journal of Geophysical Research:Solid Earth
