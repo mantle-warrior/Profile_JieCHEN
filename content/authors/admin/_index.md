@@ -45,7 +45,7 @@ superuser: true
 highlight_name: false
 ---
 
-My name is Jie Chen (陈杰). I'm now a associate professor at School of Oceanography, Shanghai Jiao Tong University. Before that, I was a postdoc at Laboratoire de Géologie, Ecole Normale Supérieure, PSL University as a part of [MUSH-OCEAN ANR project](https://mush-ocean.univ-lorraine.fr/en/) (2024-2025) and Marine Geosciences, Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité (2022-2024). 
+My name is Jie Chen (陈杰). I'm now an associate professor at School of Oceanography, Shanghai Jiao Tong University. Before that, I was a postdoc at Laboratoire de Géologie, Ecole Normale Supérieure, PSL University as a part of [MUSH-OCEAN ANR project](https://mush-ocean.univ-lorraine.fr/en/) (2024-2025) and Marine Geosciences, Institut de Physique du Globe de Paris (IPGP), Universitè Paris Cité (2022-2024). 
 
 I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geophysical (e.g., gravity, magnetic, and seismicity) and numerical (e.g., thermal modelling) approaches to investigating seafloor spreading processes at the mid-ocean ridges. 
 
