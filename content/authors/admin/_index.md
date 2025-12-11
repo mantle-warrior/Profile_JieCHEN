@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://space.bilibili.com/386897433
 organizations:
-  - name: Laboratoire de Géologie, Ecole Normale Supérieure, PSL University
+  - name: School of Oceanography, Shanghai Jiao Tong University
     url: https://www.ipgp.fr/en/directory/chenjie/
 education:
   courses:
