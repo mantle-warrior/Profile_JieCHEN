@@ -14,7 +14,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Axial-valley floor faults tell a different story than faults outside the axial valley： the role of dike-induced deformation
+title: Axial-valley floor faults tell a different story than faults outside the axial valley：the role of dike-induced deformation
 doi: 10.1016/j.epsl.2025.119796
 featured: true
 tags: [Seafloor Mapping]
