@@ -4,7 +4,6 @@ role: Ph.D. in Marine Geoscience
 bio: ""
 interests:
   - Mid-Ocean Ridges
-  - (ultra)Slow spreading ridges
   - Autonomous Underwater Vehicle
   - Geological mapping
   - Submarine volcanism
