@@ -37,15 +37,15 @@ Slow-spreading ridges are highly segmented divergent plate boundaries with vario
 
 
 
-![Figure2](/Users/jiechen/Library/CloudStorage/OneDrive-Personal/Science/SJTU/Chen_et_al_2026_EPSL/Figure2.jpg)
+![Figure2](Figure2.jpg)
 
 
 
-![Figure3](/Users/jiechen/Library/CloudStorage/OneDrive-Personal/Science/SJTU/Chen_et_al_2026_EPSL/Figure3.jpg)
+![Figure3](Figure3.jpg)
 
 
 
-![Figure4](/Users/jiechen/Library/CloudStorage/OneDrive-Personal/Science/SJTU/Chen_et_al_2026_EPSL/Figure4.jpg)
+![Figure4](Figure4.jpg)
 
-![Figure5](/Users/jiechen/Library/CloudStorage/OneDrive-Personal/Science/SJTU/Chen_et_al_2026_EPSL/Figure5.jpg)
+![Figure5](Figure5.jpg)
 
