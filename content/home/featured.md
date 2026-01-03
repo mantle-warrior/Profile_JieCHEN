@@ -4,7 +4,7 @@ widget_id: Publications
 headless: true
 weight: 20
 title: Publications
-subtitle: "as of 2025-09-29"
+subtitle: "as of 2026-01"
 content:
   page_type: publication
   count: 5
