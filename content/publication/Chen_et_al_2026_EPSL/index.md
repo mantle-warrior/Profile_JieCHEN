@@ -24,9 +24,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-date: 2026-02-15T00:00:00.000Z
+date: 2026-02-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2026-02-15T00:00:00Z
+publishDate: 2026-02-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
