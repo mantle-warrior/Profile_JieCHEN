@@ -62,7 +62,7 @@ See more in [Bilibili](https://space.bilibili.com/386897433), [Google Scholar](h
 
 Email: chenjie.geo@sjtu.edu.cn / chenjie.geo@outlook.com 
 
-Our group is looking for excellent [postdocs](https://mp.weixin.qq.com/s?__biz=MzU1OTE1MDMwNA==&mid=2247512512&idx=1&sn=96512c34d770752e56bad27f3909a1aa&chksm=fc19544fcb6edd590b019bc503e162fa7a383b6d840437f7641ae85278ca738facfdd6ab2f6f&token=822414278&lang=zh_CN&poc_token=HFsPWWmj2xicHfjvxrCJbRHm_1RqWi6nn_1qAqPV)/[students](https://soo.sjtu.edu.cn/yjszs.html). Please contact me If you are interested in subjects below or beyond:
+Our group is looking for excellent [postdocs](https://mp.weixin.qq.com/s?__biz=MzU1OTE1MDMwNA==&mid=2247512512&idx=1&sn=96512c34d770752e56bad27f3909a1aa&chksm=fc19544fcb6edd590b019bc503e162fa7a383b6d840437f7641ae85278ca738facfdd6ab2f6f&token=822414278&lang=zh_CN&poc_token=HFsPWWmj2xicHfjvxrCJbRHm_1RqWi6nn_1qAqPV)/[students](https://soo.sjtu.edu.cn/yjszs.html). Please contact me If you are interested in subjects  below or beyond: {{< staticref "uploads/Recruitment.pdf" "newtab" >}} Recruitment.pdf {{< /staticref >}}
 
-欢迎对以下方向感兴趣的[博士后](https://mp.weixin.qq.com/s?__biz=MzU1OTE1MDMwNA==&mid=2247512512&idx=1&sn=96512c34d770752e56bad27f3909a1aa&chksm=fc19544fcb6edd590b019bc503e162fa7a383b6d840437f7641ae85278ca738facfdd6ab2f6f&token=822414278&lang=zh_CN&poc_token=HFsPWWmj2xicHfjvxrCJbRHm_1RqWi6nn_1qAqPV)、[博士生、硕士生](https://soo.sjtu.edu.cn/yjszs.html)加入课题组! 欢迎邮件联系！
+欢迎对以下方向感兴趣的[博士后](https://mp.weixin.qq.com/s?__biz=MzU1OTE1MDMwNA==&mid=2247512512&idx=1&sn=96512c34d770752e56bad27f3909a1aa&chksm=fc19544fcb6edd590b019bc503e162fa7a383b6d840437f7641ae85278ca738facfdd6ab2f6f&token=822414278&lang=zh_CN&poc_token=HFsPWWmj2xicHfjvxrCJbRHm_1RqWi6nn_1qAqPV)、[博士生、硕士生](https://soo.sjtu.edu.cn/yjszs.html)加入课题组! 欢迎邮件联系！{{< staticref "uploads/Recruitment.pdf" "newtab" >}} 招聘信息 {{< /staticref >}}
 
