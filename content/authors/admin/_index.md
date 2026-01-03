@@ -8,6 +8,7 @@ interests:
   - Autonomous Underwater Vehicle
   - Geological mapping
   - Submarine volcanism
+  - Submarine mass wasting
   - Oceanic detachment fault
   - Numerical modelling
   - Hydrothermal system
@@ -53,7 +54,7 @@ I use geomorphological (e.g., bathymetry, sidescan, and seafloor imagery), geoph
 
 Recently, I focus on submarine mass wasting using high-resolution bathymetry collected by Autonomous Underwater Vehicle (AUV) and magma convection of fast-spreading ridges using numerical modelling.
 
-Download my CV in {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} and {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
+My CV: {{< staticref "uploads/JieCHEN_CV.pdf" "newtab" >}} English{{< /staticref >}} / {{< staticref "uploads/陈杰-简历.pdf" "newtab" >}} 中文{{< /staticref >}}.
 
 SJTU Homepage: [English](https://soo.sjtu.edu.cn/en/teacher-list/3156.html) / [中文](https://soo.sjtu.edu.cn/teacher-list/3423.html)
 
